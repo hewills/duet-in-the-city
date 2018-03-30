@@ -9,8 +9,20 @@ Run main.lua
 
 ### How do I get set up? ###
 
-* Run in zbstudio
-* Use conf.lua
+* Download zbstudio and Run conf.lua
+
+### Create a .love file in Windows ###
+Please note that some operating systems use case-sensitive paths. To avoid unnecessary hassle make sure that the path specifications you use in code matches that of your folders and files.
+
+To create a .love-file you have to create a zip file of the whole game directory. Make sure that main.lua is in the root of the archive
+
+   <somedir>\duet-in-the-city\audio\...
+   <somedir>\duet-in-the-city\components\...
+   etc...
+   <somedir>\duet-in-the-city\main.lua
+   <somedir>\duet-in-the-city\conf.lua
+   
+Once you have your zip file you simply rename the ending from .zip to .love and you are done!
 
 ### Contribution guidelines ###
 
