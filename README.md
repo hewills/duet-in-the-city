@@ -1,19 +1,17 @@
 # "Duet in the City" #
-
-Run main.lua
-
+   
 ### What is this repository for? ###
 
 * New piano typing game
 * v0.10
+* A game written in the LÖVE framework. LÖVE is a framework for making 2D games in the Lua programming language.
+* https://love2d.org/wiki/Main_Page
 
 ### How do I get set up? ###
 
 * Download zbstudio and Run conf.lua
 
 ### Create a .love file in Windows ###
-Please note that some operating systems use case-sensitive paths. To avoid unnecessary hassle make sure that the path specifications you use in code matches that of your folders and files.   
-
 To create a .love-file you have to create a zip file of the whole game directory. Make sure that main.lua is in the root of the archive   
    
    <somedir>\duet-in-the-city\audio\...   
@@ -23,6 +21,7 @@ To create a .love-file you have to create a zip file of the whole game directory
    <somedir>\duet-in-the-city\conf.lua   
    
 Once you have your zip file you simply rename the ending from .zip to .love and you are done!   
+Download LOVE here: (https://love2d.org/), to run the .love file.   
 
 ### Contribution guidelines ###
 
